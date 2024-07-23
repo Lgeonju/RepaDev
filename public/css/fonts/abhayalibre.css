@@ -1,0 +1,29 @@
+@font-face {
+      font-family: 'AbhayaLibre';
+      font-style: normal;
+      font-weight:300;
+      src: url('./AbhayaLibre/AbhayaLibre-Regular.eot'); /* IE9 Compat Modes */
+      src: local(''),
+           url('./AbhayaLibre/AbhayaLibre-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+           url('./AbhayaLibre/AbhayaLibre-Regular.woff') format('woff'), /* Modern Browsers */
+    }
+    @font-face {
+      font-family: 'AbhayaLibre';
+      font-style: normal;
+      font-weight:400;
+      src: url('./AbhayaLibre/AbhayaLibre-SemiBold.eot'); /* IE9 Compat Modes */
+      src: local(''),
+           url('./AbhayaLibre/AbhayaLibre-SemiBold.woff2') format('woff2'), /* Super Modern Browsers */
+           url('./AbhayaLibre/AbhayaLibre-SemiBold.woff') format('woff'), /* Modern Browsers */
+    }
+    
+    @font-face {
+      font-family: 'AbhayaLibre';
+      font-style: normal;
+      font-weight:500;
+      src: url('./AbhayaLibre/AbhayaLibre-Medium.eot'); /* IE9 Compat Modes */
+      src: local(''),
+           url('./AbhayaLibre/AbhayaLibre-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+           url('./AbhayaLibre/AbhayaLibre-Medium.woff') format('woff'), /* Modern Browsers */
+    }
+    
