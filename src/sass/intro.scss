@@ -3,8 +3,10 @@
     background:url('/images/mainBg.jpg') no-repeat center center / cover;
     font-family: 'pretendard';
     padding:2rem;
+    display:flex;
+    align-items: center;
 
-    .subTit{font-size:4rem; font-weight: 700;}
-    .tit{font-size:6rem;}
-    .txt{font-size:2rem;}
+    .subTit{font-size:3rem; font-weight: 700;}
+    .tit{font-size:6rem; letter-spacing: 10px;}
+    .txt{font-size:2rem; margin-top:2rem}
 }
